@@ -4,7 +4,7 @@ Nim : 312010308
 Kelas : TI.20.A.2
 
 Latihan 4
-1.	Langkah pertama membuat folder “program 1”, saya membuat foldernya di desktop.
+1.	Langkah pertama membuat folder “PROJECT”, saya membuat foldernya di desktop.
 2.	Klik kanan pada folder yang sudah dibuat tadi lalu klik terminal lalu akan muncul seperti gambar dibawah ini :
 
 
@@ -36,9 +36,9 @@ Latihan 4
 ![image](https://user-images.githubusercontent.com/72779594/96334147-b274bb00-1098-11eb-8b8f-3070fd8c0954.png)
 
  
-Dan nantinya di folder program 1 didalamnya ada folder baru “latihan 4”
+Dan nantinya di folder PROJECT didalamnya ada folder baru “TUGAS”
 
-4.	Langkah selanjutnya masuk kedalam folder “tugas” dengan mengetik “cd tugas”
+4.	Langkah selanjutnya masuk kedalam folder “TUGAS” dengan mengetik “cd TUGAS”
 
  
 
@@ -93,7 +93,7 @@ Maka warna file nya akan berubah hijau, file tersebut sudah di add.
 12.	Langkah selanjutnya mengisi repository nya
 
  
--	Isi repository nya dengan nama “latihan4”, untuk penamaan bisa dirubah sesuai keperluan.
+-	Isi repository nya dengan nama “latihan 1”, untuk penamaan bisa dirubah sesuai keperluan.
 -	Untuk description/pesan buatlah sejalas mungkin.
 -	Pilihlah publick
 -	Lalu create repository
