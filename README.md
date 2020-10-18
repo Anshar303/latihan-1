@@ -121,6 +121,7 @@ Maka warna file nya akan berubah hijau, file tersebut sudah di add.
  	
  
 Copy link tersebut untuk menghubungkan dengan akun git yang ada di PC/laptop.
+
 14.	Cara menguhubungkannya dengan mengetik “git remote add origin(origin ini nama default dri system,maka bisa kita ganti dengan nama yang kita inginkan) <link>”
 
 ![image](https://user-images.githubusercontent.com/72779594/96359574-9166a580-113e-11eb-80e1-853134fa9a4e.png)
