@@ -1,12 +1,11 @@
-pembelajaran repositori
+	Nama  : Anshar Rahmawan
 
-Nama  : Anshar Rahmawan
+	Nim   : 312010308
 
-Nim   : 312010308
+	Kelas : TI.20.A.2
 
-Kelas : TI.20.A.2
-
-PEMBELAJARAN REPOSITORI
+				PEMBELAJARAN REPOSITORI
+				
 1.	Langkah pertama membuat folder “PROJECT”, saya membuat foldernya di desktop.
 2.	Klik kanan pada folder yang sudah dibuat tadi lalu klik terminal lalu akan muncul seperti gambar dibawah ini :
 
