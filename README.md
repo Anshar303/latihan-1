@@ -85,6 +85,7 @@ Untuk mengeceknya ketik “git status”
  ![image](https://user-images.githubusercontent.com/72779594/96359544-3634b300-113e-11eb-97f1-f2d265fc3141.png)
 
 Maka warna file nya akan berubah hijau, file tersebut sudah di add.
+
 9.	Langkah selanjutnya commit file tersebut (git commit -m “pesan”)
 
 ![image](https://user-images.githubusercontent.com/72779594/96359548-4482cf00-113e-11eb-8630-997595e657f5.png)
